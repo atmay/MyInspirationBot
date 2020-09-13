@@ -1,0 +1,22 @@
+{
+  "GLOBAL": {
+    "MESSAGE_DELAY": 60
+  },
+  "TELEGRAM": {
+    "TOKEN": "1331600076:AAEs4nG8L2C0io7yw59T4I9hjVrz-wkCZz4",
+    "SUBSCRIBERS": [
+      {
+        "ID": 190542919,
+        "STATUS": "ADMIN"
+      },
+      {
+        "ID": 820216855,
+        "STATUS": "MODERATOR"
+      },
+      {
+        "ID": 217139232,
+        "STATUS": "USER"
+      }
+    ]
+  }
+}
