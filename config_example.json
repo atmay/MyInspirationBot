@@ -3,18 +3,18 @@
     "MESSAGE_DELAY": 60
   },
   "TELEGRAM": {
-    "TOKEN": "1331600076:AAFQ1nJZKyTarVo8nB93ezS0xNtItiFm8n0",
+    "TOKEN": "token",
     "SUBSCRIBERS": [
       {
-        "ID": 190542919,
+        "ID": 111111111,
         "STATUS": "ADMIN"
       },
       {
-        "ID": 820216855,
+        "ID": 222222222,
         "STATUS": "MODERATOR"
       },
       {
-        "ID": 217139232,
+        "ID": 33333333,
         "STATUS": "USER"
       }
     ]
